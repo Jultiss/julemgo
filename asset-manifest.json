@@ -1,0 +1,14 @@
+{
+  "files": {
+    "main.css": "/julemgo/static/css/main.dac041fb.css",
+    "main.js": "/julemgo/static/js/main.1a80cf42.js",
+    "static/media/JULEMGO_LOGO.png": "/julemgo/static/media/JULEMGO_LOGO.90a4129f245a69d7f24a.png",
+    "index.html": "/julemgo/index.html",
+    "main.dac041fb.css.map": "/julemgo/static/css/main.dac041fb.css.map",
+    "main.1a80cf42.js.map": "/julemgo/static/js/main.1a80cf42.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.dac041fb.css",
+    "static/js/main.1a80cf42.js"
+  ]
+}
