@@ -1,6 +1,7 @@
 {
   "name": "julemgo",
-  "homepage": "https://Jultiss.github.io/react-frontend-dev-portfolio/",
+  "homepage": "https://Jultiss.github.io/julemgo/",
+  "serviceWorker": true,
   "version": "0.1.0",
   "private": true,
   "dependencies": {
