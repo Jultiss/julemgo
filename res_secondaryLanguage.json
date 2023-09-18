@@ -1,20 +1,20 @@
 {
   "basic_info": {
-    "description_header": "Bonjour",
-    "description": "👋 Je suis Julien Tissidre. J'ai 44 ans, papa de 2 enfants de 11 et 6 ans et j'habite à Agen en Nouvelle Aquitaine. Cadre supérieur dans une banque régionale, j'y occupe le poste de responsable de la Production Crédits. Entré dans cette belle entreprise à 18 ans, j'y ai réalisé l'ensemble de mes études en alternance puis en interne (ITB, Kedge) J'ai exercé à peu près tous les métiers des agences, puis je me suis orienté vers un poste de manager d'une agence en ligne avant de créer une plateforme de distribution en ligne de crédit à la consommations puis depuis 4 ans j'ai la responsabilité des équipes d'experts Crédits (back et middle office). Je viens de terminer le parcours diplômant de Développeur Web d'OpenClassrooms. Plus un challenge personnel qu'un enjeu professionnel et je vois cette formation comme une opportunité de mieux comprendre ce domaine qui me passionne !... et qui sait... peut-être plus encore... L'avenir appartient à ceux qui osent...!",
+    "description_header": "Hello",
+    "description": "👋 I'm Julien Tissidre. I'm 44 years old, a father of 2 children aged 11 and 6, and I live in Agen, Nouvelle Aquitaine. I work as a senior manager at a regional bank, where I hold the position of Head of Credit Production. I joined this wonderful company at the age of 18 and completed all my studies there through apprenticeships and internal programs (ITB, Kedge). I've worked in almost all roles in the branches, then transitioned to a role as the manager of an online branch before creating an online consumer credit distribution platform. For the past 4 years, I've been responsible for the Credit expert teams (back and middle office). I've just completed the diploma program in Web Development at OpenClassrooms. It's more of a personal challenge than a professional one, and I see this training as an opportunity to better understand this field that I'm passionate about!... and who knows... maybe even more... The future belongs to those who dare...!",
     "section_name": {
-      "about": "A propos de moi",
-      "projects": "Mes projets",
-      "skills": "Compétences",
-      "experience": "Expériences",
-      "education": "Formation"
+      "about": "About Me",
+      "projects": "My Projects",
+      "skills": "Skills",
+      "experience": "Experience",
+      "education": "Education"
     }
   },
   "projects": [
     {
       "title": "Booki",
       "startDate": "2023",
-      "description": "Projet 2 de la formation Développeur Web d'OpenClassrooms : Intégration d'une maquette FIGMA pour la création un site web statique responsive en HTML et CSS. Le projet est de créer la page d'accueil d'un site de réservation de logements.",
+      "description": "Project 2 of the OpenClassrooms Web Developer program: Integration of a FIGMA mockup to create a responsive static website in HTML and CSS. The project is to create the homepage of a lodging reservation website.",
       "images": [
         "images/portfolio/booki/p1.jpg",
         "images/portfolio/booki/p2.jpg",
@@ -25,7 +25,7 @@
       "technologies": [
         {
           "class": "devicon-html5-plain",
-          "name": "Html5"
+          "name": "HTML5"
         },
         {
           "class": "devicon-css3-plain",
@@ -40,7 +40,7 @@
     {
       "title": "Sophie Bluel",
       "startDate": "2023",
-      "description": "Projet 3 du parcours Développeur Web d'OpenClassrooms : Dynamisez une page web dynamique avec JavaScript. Utilisation de JavaScript pour créer une page web dynamique. Le projet est de créer une page web pour un photographe. Utilisation de requêtes API pour récupérer des données et les afficher dynamiquement dans la page web. Filtrage des données en fonction de critères de recherche. Gestion des événements JavaScript. Création d'une page de connexion et gestion de l'authentification. Création de fenêtres modales. Aout de données via un formulaire.",
+      "description": "Project 3 of the OpenClassrooms Web Developer program: Create a dynamic web page with JavaScript. Use JavaScript to create a dynamic web page. The project is to create a web page for a photographer. Use API requests to fetch data and display it dynamically on the web page. Filter data based on search criteria. Handle JavaScript events. Create a login page and manage authentication. Create modal windows. Add data via a form.",
       "images": [
         "images/portfolio/sophie-bluel/p1.png",
         "images/portfolio/sophie-bluel/p2.jpg"
@@ -50,12 +50,13 @@
       "technologies": [
         {
           "class": "devicon-html5-plain",
-          "name": "Html5"
+          "name": "HTML5"
         },
         {
           "class": "devicon-css3-plain",
           "name": "CSS3"
-        },      {
+        },
+        {
           "class": "devicon-javascript-plain",
           "name": "JavaScript"
         }
@@ -64,7 +65,7 @@
     {
       "title": "Nina Carducci",
       "startDate": "2023",
-      "description": "Projet 5 du parcours Développeur Web d'OpenClassrooms : Débuggez et optimisez le site web d'une photographe. Utilisation de Google Lighthouse. Optimisation globale du site, tant sur les performances que sur le SEO. Mise en place du référencement local en utilisant Schema.org. Ajout des metas pour les réseaux sociaux. Optimisation de l'accessibilité du site. Correction de bugs Javascript et production d'un rapport d'optimisation.",
+      "description": "Project 5 of the OpenClassrooms Web Developer program: Debug and optimize a photographer's website. Use Google Lighthouse. Optimize the website globally, both in terms of performance and SEO. Implement local SEO using Schema.org. Add meta tags for social media. Optimize website accessibility. Fix JavaScript bugs and produce an optimization report.",
       "images": [
         "images/portfolio/nina-carducci/p1.jpg",
         "images/portfolio/nina-carducci/p2.jpg",
@@ -76,12 +77,13 @@
       "technologies": [
         {
           "class": "devicon-html5-plain",
-          "name": "Html5"
+          "name": "HTML5"
         },
         {
           "class": "devicon-css3-plain",
           "name": "CSS3"
-        },      {
+        },
+        {
           "class": "devicon-google-plain",
           "name": "Lighthouse"
         }
@@ -90,7 +92,7 @@
     {
       "title": "Pokedex",
       "startDate": "2023",
-      "description": "Création d'un pokedex avec React. Un cours en ligne de Simon Dieny. Pour tester : identifiant : pikachu / mot de passe : pikachu",
+      "description": "Creating a Pokedex with React. An online course by Simon Dieny. To test: username: pikachu / password: pikachu",
       "images": [
         "images/portfolio/pokedex/p1.jpg",
         "images/portfolio/pokedex/p2.jpg",
@@ -115,36 +117,36 @@
       ]
     },
     {
-    "title": "Kasa",
-    "startDate": "2023",
-    "description": "Projet 6 du parcours Développeur Web d'OpenClassrooms : Développez une application web de location immobilière avec React. Initialisation d'un nouveau projet React avec React-create-app. Mise en place du routage avec react-router-dom. Création des composants et pages de l'application. Création d'un carousel et de collapse. Utilisation de Saas pour la gestion des styles.",
-    "images": [
-      "images/portfolio/kasa/p1.jpg",
-      "images/portfolio/kasa/p2.jpg",
-      "images/portfolio/kasa/p3.jpg",
-      "images/portfolio/kasa/p4.jpg"
-    ],
-    "url": "https://jultiss.github.io/kasa",
-    "git": "https://github.com/Jultiss/kasa",
-    "technologies": [
-      {
-        "class": "devicon-react-plain",
-        "name": "React"
-      },
-      {
-        "class": "devicon-javascript-plain",
-        "name": "JavaScript"
-      },
-      {
-        "class": "devicon-sass-original",
-        "name": "Sass"
-      }
-    ]
-  },
+      "title": "Kasa",
+      "startDate": "2023",
+      "description": "Project 6 of the OpenClassrooms Web Developer program: Develop a web-based real estate rental application with React. Initialize a new React project with React-create-app. Set up routing with react-router-dom. Create application components and pages. Create a carousel and collapse. Use Sass for style management.",
+      "images": [
+        "images/portfolio/kasa/p1.jpg",
+        "images/portfolio/kasa/p2.jpg",
+        "images/portfolio/kasa/p3.jpg",
+        "images/portfolio/kasa/p4.jpg"
+      ],
+      "url": "https://jultiss.github.io/kasa/",
+      "git": "https://github.com/Jultiss/kasa",
+      "technologies": [
+        {
+          "class": "devicon-react-plain",
+          "name": "React"
+        },
+        {
+          "class": "devicon-javascript-plain",
+          "name": "JavaScript"
+        },
+        {
+          "class": "devicon-sass-original",
+          "name": "Sass"
+        }
+      ]
+    },
     {
       "title": "Mon vieux Grimoire",
       "startDate": "2023",
-      "description": "Projet 7 du parcours Développeur Web d'OpenClassrooms : Développez le backend d'une application web de notation de livres. Utilisation d'Express pour créer une API REST. Utilisation de MongoDB pour stocker les données. Utilisation de Mongoose pour créer les modèles de données. Utilisation de Multer pour gérer les fichiers entrants. Utilisation de Bcrypt pour chiffrer les mots de passe. Utilisation de JsonWebToken pour sécuriser les données. Utilisation de Nodemon pour développer plus facilement. Projet conforme aux bonnes pratiques du Green Code avec gestion via Sharp de la taille des images.",
+      "description": "Project 7 of the OpenClassrooms Web Developer program: Develop the backend of a book rating web application. Use Express to create a REST API. Use MongoDB to store data. Use Mongoose to create data models. Use Multer to handle incoming files. Use Bcrypt to encrypt passwords. Use JsonWebToken to secure data. Use Nodemon for easier development. Project follows Green Code best practices with image size management via Sharp.",
       "images": [
         "images/portfolio/mon-vieux-grimoire/p1.jpg",
         "images/portfolio/mon-vieux-grimoire/p2.jpg",
@@ -162,7 +164,8 @@
         {
           "class": "devicon-mongodb-plain",
           "name": "MongoDB"
-        },      {
+        },
+        {
           "class": "devicon-express-original colored",
           "name": "Express"
         }
@@ -171,92 +174,90 @@
   ],
   "experience": [
     {
-      "company": "Personnel",
-      "title": "Developpeur Web",
-      "years": "04.2023 - maintenant",
+      "company": "Personal Project",
+      "title": "Web Developer",
+      "years": "04.2023 - Present",
       "mainTech": [
-        "Formation OpenClassrooms"
+        "OpenClassrooms Training"
       ],
       "technologies": [
-        "HTML 5",
-        "CSS 3",
+        "HTML5",
+        "CSS3",
         "JavaScript",
         "React",
         "MongoDB",
-        "Gestion de projet"
+        "Project Management"
       ]
     },
-
     {
       "company": "Crédit Agricole Aquitaine",
-      "title": "Responsable Production Crédits",
-      "years": "01.2019 - maintenant",
+      "title": "Head of Credit Production",
+      "years": "01.2019 - Present",
       "mainTech": [
-        "Banque fonctions support"
+        "Bank Support Functions"
       ],
       "technologies": [
-        "Marché des Particuliers",
-        "Marché Pro/Agri/Viti",
-        "Marché Corporate",
-        "Epargne",
-        "Financements",
-        "Assurances",
-        "Gestion de projet"
+        "Retail Banking",
+        "Pro/Agri/Viti Market",
+        "Corporate Market",
+        "Savings",
+        "Financing",
+        "Insurance",
+        "Project Management"
       ]
     },
     {
       "company": "Crédit Agricole Aquitaine",
-      "title": "Directeur d'Agence",
+      "title": "Branch Manager",
       "years": "09.1997 - 01.2019",
       "mainTech": [
-        "Banque Réseau commercial"
+        "Commercial Banking Network"
       ],
       "technologies": [
-        "Conseiller Particuliers",
-        "Conseiller Immobilier",
-        "Conseiller Professionnels",
-        "Directeur d'Agence",
-        "Responsable plateforme Crédit Conso"
+        "Retail Banking Advisor",
+        "Real Estate Advisor",
+        "Professional Advisor",
+        "Branch Manager",
+        "Consumer Credit Platform Manager"
       ]
     }
   ],
   "education": [
     {
       "company": "KEDGE Business School",
-      "title": "Management Bancaire",
+      "title": "Bank Management",
       "years": "2018",
       "mainTech": [
-        "Formation Manager Agence Bancaire"
+        "Branch Manager Training"
       ],
       "technologies": [
         "Management",
         "Marketing",
-        "Economie",
-        "Gestion de projet",
+        "Economics",
+        "Project Management",
         "Finance"
       ]
     },
-
     {
       "company": "CFPB",
-      "title": "Institut Technique de Banque",
+      "title": "Technical Institute of Banking",
       "years": "2001",
       "mainTech": [
         "BAC + 5"
       ],
       "technologies": [
-        "Droit",
-        "Economie",
-        "Gestion",
+        "Law",
+        "Economics",
+        "Management",
         "Finance",
         "Marketing",
         "Management"
       ]
     },
     {
-      "company": "Université de Pau et Pays de l'Adour",
-      "title": "DUT Techniques de Commercialisation",
-      "years": "1997 - 1999 (alternance)",
+      "company": "University of Pau et Pays de l'Adour",
+      "title": "DUT in Sales Techniques",
+      "years": "1997 - 1999 (apprenticeship)",
       "mainTech": [
         "BAC + 2"
       ],
@@ -265,16 +266,16 @@
       ]
     },
     {
-      "company": "Lycée Bernard Palissy",
-      "title": "Baccalauréat Economique et Social",
+      "company": "Bernard Palissy High School - Agen",
+      "title": "Baccalaureate in Economics and Social Sciences",
       "years": "1996",
       "mainTech": [
         "BAC"
       ],
       "technologies": [
-        "Economie",
-        "Sciences Sociales",
-        "Mathématiques"
+        "Economics",
+        "Social Sciences",
+        "Mathematics"
       ]
     }
   ]
