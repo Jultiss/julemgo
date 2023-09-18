@@ -1,14 +1,14 @@
 {
   "files": {
-    "main.css": "/julemgo/static/css/main.7934edf0.css",
+    "main.css": "/julemgo/static/css/main.a1550546.css",
     "main.js": "/julemgo/static/js/main.1a80cf42.js",
     "static/media/JULEMGO_LOGO.png": "/julemgo/static/media/JULEMGO_LOGO.90a4129f245a69d7f24a.png",
     "index.html": "/julemgo/index.html",
-    "main.7934edf0.css.map": "/julemgo/static/css/main.7934edf0.css.map",
+    "main.a1550546.css.map": "/julemgo/static/css/main.a1550546.css.map",
     "main.1a80cf42.js.map": "/julemgo/static/js/main.1a80cf42.js.map"
   },
   "entrypoints": [
-    "static/css/main.7934edf0.css",
+    "static/css/main.a1550546.css",
     "static/js/main.1a80cf42.js"
   ]
 }
