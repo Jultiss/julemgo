@@ -16,9 +16,9 @@
       "startDate": "2023",
       "description": "Project 2 of the OpenClassrooms Web Developer program: Integration of a FIGMA mockup to create a responsive static website in HTML and CSS. The project is to create the homepage of a lodging reservation website.",
       "images": [
-        "images/portfolio/booki/p1.jpg",
-        "images/portfolio/booki/p2.jpg",
-        "images/portfolio/booki/p3.jpg"
+        "images/portfolio/booki/p1.webp",
+        "images/portfolio/booki/p2.webp",
+        "images/portfolio/booki/p3.webp"
       ],
       "url": "https://jultiss.github.io/projet-2-booki/",
       "git": "https://github.com/Jultiss/projet-2-booki",
@@ -43,7 +43,7 @@
       "description": "Project 3 of the OpenClassrooms Web Developer program: Create a dynamic web page with JavaScript. Use JavaScript to create a dynamic web page. The project is to create a web page for a photographer. Use API requests to fetch data and display it dynamically on the web page. Filter data based on search criteria. Handle JavaScript events. Create a login page and manage authentication. Create modal windows. Add data via a form.",
       "images": [
         "images/portfolio/sophie-bluel/p1.png",
-        "images/portfolio/sophie-bluel/p2.jpg"
+        "images/portfolio/sophie-bluel/p2.webp"
       ],
       "url": "https://sophie-bluel-julemgo-91a1d436a766.herokuapp.com/",
       "git": "https://github.com/Jultiss/Portfolio-architecte-sophie-bluel-master",
@@ -67,10 +67,10 @@
       "startDate": "2023",
       "description": "Project 5 of the OpenClassrooms Web Developer program: Debug and optimize a photographer's website. Use Google Lighthouse. Optimize the website globally, both in terms of performance and SEO. Implement local SEO using Schema.org. Add meta tags for social media. Optimize website accessibility. Fix JavaScript bugs and produce an optimization report.",
       "images": [
-        "images/portfolio/nina-carducci/p1.jpg",
-        "images/portfolio/nina-carducci/p2.jpg",
-        "images/portfolio/nina-carducci/p3.jpg",
-        "images/portfolio/nina-carducci/p4.jpg"
+        "images/portfolio/nina-carducci/p1.webp",
+        "images/portfolio/nina-carducci/p2.webp",
+        "images/portfolio/nina-carducci/p3.webp",
+        "images/portfolio/nina-carducci/p4.webp"
       ],
       "url": "https://jultiss.github.io/nina-carducci.github.io-master/",
       "git": "https://github.com/Jultiss/nina-carducci.github.io-master",
@@ -94,10 +94,10 @@
       "startDate": "2023",
       "description": "Creating a Pokedex with React. An online course by Simon Dieny. To test: username: pikachu / password: pikachu",
       "images": [
-        "images/portfolio/pokedex/p1.jpg",
-        "images/portfolio/pokedex/p2.jpg",
-        "images/portfolio/pokedex/p3.jpg",
-        "images/portfolio/pokedex/p4.jpg"
+        "images/portfolio/pokedex/p1.webp",
+        "images/portfolio/pokedex/p2.webp",
+        "images/portfolio/pokedex/p3.webp",
+        "images/portfolio/pokedex/p4.webp"
       ],
       "url": "https://react-pokemons-app-6bcc2.web.app/",
       "git": "https://github.com/Jultiss/REACT-POKEMONS-APP",
@@ -121,10 +121,10 @@
       "startDate": "2023",
       "description": "Project 6 of the OpenClassrooms Web Developer program: Develop a web-based real estate rental application with React. Initialize a new React project with React-create-app. Set up routing with react-router-dom. Create application components and pages. Create a carousel and collapse. Use Sass for style management.",
       "images": [
-        "images/portfolio/kasa/p1.jpg",
-        "images/portfolio/kasa/p2.jpg",
-        "images/portfolio/kasa/p3.jpg",
-        "images/portfolio/kasa/p4.jpg"
+        "images/portfolio/kasa/p1.webp",
+        "images/portfolio/kasa/p2.webp",
+        "images/portfolio/kasa/p3.webp",
+        "images/portfolio/kasa/p4.webp"
       ],
       "url": "https://jultiss.github.io/kasa/",
       "git": "https://github.com/Jultiss/kasa",
@@ -148,11 +148,11 @@
       "startDate": "2023",
       "description": "Project 7 of the OpenClassrooms Web Developer program: Develop the backend of a book rating web application. Use Express to create a REST API. Use MongoDB to store data. Use Mongoose to create data models. Use Multer to handle incoming files. Use Bcrypt to encrypt passwords. Use JsonWebToken to secure data. Use Nodemon for easier development. Project follows Green Code best practices with image size management via Sharp.",
       "images": [
-        "images/portfolio/mon-vieux-grimoire/p1.jpg",
-        "images/portfolio/mon-vieux-grimoire/p2.jpg",
-        "images/portfolio/mon-vieux-grimoire/p3.jpg",
-        "images/portfolio/mon-vieux-grimoire/p4.jpg",
-        "images/portfolio/mon-vieux-grimoire/p5.jpg"
+        "images/portfolio/mon-vieux-grimoire/p1.webp",
+        "images/portfolio/mon-vieux-grimoire/p2.webp",
+        "images/portfolio/mon-vieux-grimoire/p3.webp",
+        "images/portfolio/mon-vieux-grimoire/p4.webp",
+        "images/portfolio/mon-vieux-grimoire/p5.webp"
       ],
       "url": "https://mon-vieux-grimoire-julemgo-5a9769bad49d.herokuapp.com/",
       "git": "https://github.com/Jultiss/P7-Mon-Vieux-Grimoire",
