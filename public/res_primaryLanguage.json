@@ -42,7 +42,7 @@
       "startDate": "2023",
       "description": "Projet 3 du parcours Développeur Web d'OpenClassrooms : Dynamisez une page web dynamique avec JavaScript. Utilisation de JavaScript pour créer une page web dynamique. Le projet est de créer une page web pour un photographe. Utilisation de requêtes API pour récupérer des données et les afficher dynamiquement dans la page web. Filtrage des données en fonction de critères de recherche. Gestion des événements JavaScript. Création d'une page de connexion et gestion de l'authentification. Création de fenêtres modales. Aout de données via un formulaire.",
       "images": [
-        "images/portfolio/sophie-bluel/p1.png",
+        "images/portfolio/sophie-bluel/p1.webp",
         "images/portfolio/sophie-bluel/p2.webp"
       ],
       "url": "https://sophie-bluel-julemgo-91a1d436a766.herokuapp.com/",

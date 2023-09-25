@@ -42,7 +42,7 @@
       "startDate": "2023",
       "description": "Project 3 of the OpenClassrooms Web Developer program: Create a dynamic web page with JavaScript. Use JavaScript to create a dynamic web page. The project is to create a web page for a photographer. Use API requests to fetch data and display it dynamically on the web page. Filter data based on search criteria. Handle JavaScript events. Create a login page and manage authentication. Create modal windows. Add data via a form.",
       "images": [
-        "images/portfolio/sophie-bluel/p1.png",
+        "images/portfolio/sophie-bluel/p1.webp",
         "images/portfolio/sophie-bluel/p2.webp"
       ],
       "url": "https://sophie-bluel-julemgo-91a1d436a766.herokuapp.com/",
