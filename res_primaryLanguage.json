@@ -16,9 +16,9 @@
       "startDate": "2023",
       "description": "Projet 2 de la formation Développeur Web d'OpenClassrooms : Intégration d'une maquette FIGMA pour la création un site web statique responsive en HTML et CSS. Le projet est de créer la page d'accueil d'un site de réservation de logements.",
       "images": [
-        "images/portfolio/booki/p1.jpg",
-        "images/portfolio/booki/p2.jpg",
-        "images/portfolio/booki/p3.jpg"
+        "images/portfolio/booki/p1.webp",
+        "images/portfolio/booki/p2.webp",
+        "images/portfolio/booki/p3.webp"
       ],
       "url": "https://jultiss.github.io/projet-2-booki/",
       "git": "https://github.com/Jultiss/projet-2-booki",
@@ -43,7 +43,7 @@
       "description": "Projet 3 du parcours Développeur Web d'OpenClassrooms : Dynamisez une page web dynamique avec JavaScript. Utilisation de JavaScript pour créer une page web dynamique. Le projet est de créer une page web pour un photographe. Utilisation de requêtes API pour récupérer des données et les afficher dynamiquement dans la page web. Filtrage des données en fonction de critères de recherche. Gestion des événements JavaScript. Création d'une page de connexion et gestion de l'authentification. Création de fenêtres modales. Aout de données via un formulaire.",
       "images": [
         "images/portfolio/sophie-bluel/p1.png",
-        "images/portfolio/sophie-bluel/p2.jpg"
+        "images/portfolio/sophie-bluel/p2.webp"
       ],
       "url": "https://sophie-bluel-julemgo-91a1d436a766.herokuapp.com/",
       "git": "https://github.com/Jultiss/Portfolio-architecte-sophie-bluel-master",
@@ -66,10 +66,10 @@
       "startDate": "2023",
       "description": "Projet 5 du parcours Développeur Web d'OpenClassrooms : Débuggez et optimisez le site web d'une photographe. Utilisation de Google Lighthouse. Optimisation globale du site, tant sur les performances que sur le SEO. Mise en place du référencement local en utilisant Schema.org. Ajout des metas pour les réseaux sociaux. Optimisation de l'accessibilité du site. Correction de bugs Javascript et production d'un rapport d'optimisation.",
       "images": [
-        "images/portfolio/nina-carducci/p1.jpg",
-        "images/portfolio/nina-carducci/p2.jpg",
-        "images/portfolio/nina-carducci/p3.jpg",
-        "images/portfolio/nina-carducci/p4.jpg"
+        "images/portfolio/nina-carducci/p1.webp",
+        "images/portfolio/nina-carducci/p2.webp",
+        "images/portfolio/nina-carducci/p3.webp",
+        "images/portfolio/nina-carducci/p4.webp"
       ],
       "url": "https://jultiss.github.io/nina-carducci.github.io-master/",
       "git": "https://github.com/Jultiss/nina-carducci.github.io-master",
@@ -92,10 +92,10 @@
       "startDate": "2023",
       "description": "Création d'un pokedex avec React. Un cours en ligne de Simon Dieny. Pour tester : identifiant : pikachu / mot de passe : pikachu",
       "images": [
-        "images/portfolio/pokedex/p1.jpg",
-        "images/portfolio/pokedex/p2.jpg",
-        "images/portfolio/pokedex/p3.jpg",
-        "images/portfolio/pokedex/p4.jpg"
+        "images/portfolio/pokedex/p1.webp",
+        "images/portfolio/pokedex/p2.webp",
+        "images/portfolio/pokedex/p3.webp",
+        "images/portfolio/pokedex/p4.webp"
       ],
       "url": "https://react-pokemons-app-6bcc2.web.app/",
       "git": "https://github.com/Jultiss/REACT-POKEMONS-APP",
@@ -119,10 +119,10 @@
     "startDate": "2023",
     "description": "Projet 6 du parcours Développeur Web d'OpenClassrooms : Développez une application web de location immobilière avec React. Initialisation d'un nouveau projet React avec React-create-app. Mise en place du routage avec react-router-dom. Création des composants et pages de l'application. Création d'un carousel et de collapse. Utilisation de Saas pour la gestion des styles.",
     "images": [
-      "images/portfolio/kasa/p1.jpg",
-      "images/portfolio/kasa/p2.jpg",
-      "images/portfolio/kasa/p3.jpg",
-      "images/portfolio/kasa/p4.jpg"
+      "images/portfolio/kasa/p1.webp",
+      "images/portfolio/kasa/p2.webp",
+      "images/portfolio/kasa/p3.webp",
+      "images/portfolio/kasa/p4.webp"
     ],
     "url": "https://jultiss.github.io/kasa/",
     "git": "https://github.com/Jultiss/kasa",
@@ -146,11 +146,11 @@
       "startDate": "2023",
       "description": "Projet 7 du parcours Développeur Web d'OpenClassrooms : Développez le backend d'une application web de notation de livres. Utilisation d'Express pour créer une API REST. Utilisation de MongoDB pour stocker les données. Utilisation de Mongoose pour créer les modèles de données. Utilisation de Multer pour gérer les fichiers entrants. Utilisation de Bcrypt pour chiffrer les mots de passe. Utilisation de JsonWebToken pour sécuriser les données. Utilisation de Nodemon pour développer plus facilement. Projet conforme aux bonnes pratiques du Green Code avec gestion via Sharp de la taille des images.",
       "images": [
-        "images/portfolio/mon-vieux-grimoire/p1.jpg",
-        "images/portfolio/mon-vieux-grimoire/p2.jpg",
-        "images/portfolio/mon-vieux-grimoire/p3.jpg",
-        "images/portfolio/mon-vieux-grimoire/p4.jpg",
-        "images/portfolio/mon-vieux-grimoire/p5.jpg"
+        "images/portfolio/mon-vieux-grimoire/p1.webp",
+        "images/portfolio/mon-vieux-grimoire/p2.webp",
+        "images/portfolio/mon-vieux-grimoire/p3.webp",
+        "images/portfolio/mon-vieux-grimoire/p4.webp",
+        "images/portfolio/mon-vieux-grimoire/p5.webp"
       ],
       "url": "https://mon-vieux-grimoire-julemgo-5a9769bad49d.herokuapp.com/",
       "git": "https://github.com/Jultiss/P7-Mon-Vieux-Grimoire",
