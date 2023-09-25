@@ -1,13 +1,13 @@
 {
   "files": {
-    "main.css": "/julemgo/static/css/main.5a4e5327.css",
+    "main.css": "/julemgo/static/css/main.be428dba.css",
     "main.js": "/julemgo/static/js/main.415dc55b.js",
     "index.html": "/julemgo/index.html",
-    "main.5a4e5327.css.map": "/julemgo/static/css/main.5a4e5327.css.map",
+    "main.be428dba.css.map": "/julemgo/static/css/main.be428dba.css.map",
     "main.415dc55b.js.map": "/julemgo/static/js/main.415dc55b.js.map"
   },
   "entrypoints": [
-    "static/css/main.5a4e5327.css",
+    "static/css/main.be428dba.css",
     "static/js/main.415dc55b.js"
   ]
 }
