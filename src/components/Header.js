@@ -46,15 +46,16 @@ class Header extends Component {
               <h1 className="mb-0">
                 <Typical steps={[name]} wrapper="p" />
               </h1>
-              <div className="title-container">
+              <h2 className="title-container">
                 <HeaderTitleTypeAnimation />
-              </div>
+              </h2>
               <Switch
                 checked={this.state.checked}
                 onChange={this.onThemeSwitchChange}
                 offColor="#baaa80"
                 onColor="#353535"
                 className="react-switch mx-auto"
+                aria-label="Dark mode"
                 width={90}
                 height={40}
                 uncheckedIcon={

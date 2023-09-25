@@ -93,6 +93,7 @@ class App extends Component {
                 )
               }
               style={{ display: "inline" }}
+              aria-label="Change language"
             >
               <span
                 className="iconify language-icon mr-5"
