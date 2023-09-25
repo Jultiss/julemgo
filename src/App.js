@@ -99,6 +99,7 @@ class App extends Component {
                 data-icon="twemoji-flag-for-flag-france"
                 data-inline="false"
                 id={window.$primaryLanguageIconId}
+                aria-label="French language"
               ></span>
             </div>
             <div
@@ -115,6 +116,7 @@ class App extends Component {
                 data-icon="twemoji-flag-for-flag-united-kingdom"
                 data-inline="false"
                 id={window.$secondaryLanguageIconId}
+                aria-label="English language"
               ></span>
             </div>
           </div>
