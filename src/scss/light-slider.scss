@@ -120,6 +120,7 @@ $content-background-color: #D7CAAA;
     > video {
       width: 100%;
       position: absolute;
+      object-fit: contain;
       top: 0;
       left: 0;
     }
